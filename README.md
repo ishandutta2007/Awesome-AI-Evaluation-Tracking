@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Evaluation-Tracking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Evaluation-Tracking?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Evaluation-Tracking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Evaluation-Tracking?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Evaluation-Tracking/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Evaluation-Tracking?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Evaluation-Tracking/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,46 +66,46 @@ The market is currently **moderately fragmented transitioning into rapid consoli
 
 ## 🛠️ Open-Source GitHub Projects
 
-- **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+- **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
   **Open-source LLM engineering platform** (MIT core) with tracing, evaluations, prompt management, and datasets. Self-hostable with ClickHouse backend. **Acquired by ClickHouse in January 2026 with commitment to remain open source**.
 
-- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
   **Open-source LLM testing, evaluation, and red-teaming framework** (MIT). Fast CLI and CI/CD integration for automated prompt evaluation, security scans, and vulnerability detection. OpenAI acquired the team in March 2026 while maintaining open-source development.
 
-- **[Comet Opik](https://github.com/comet-ml/opik)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)  
+- **[Comet Opik](https://github.com/comet-ml/opik)** [![GitHub_Stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)  
   **Fully-permissive Apache-2.0 LLM evaluation and observability platform**. Full platform—backend included—free to self-host. Covers AI agent tracing, LLM evaluation, prompt optimization, production monitoring, and Opik Guardrails.
 
-- **[OpenAI Evals](https://github.com/openai/evals)** [![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social&color=white)](https://github.com/openai/evals/stargazers)  
+- **[OpenAI Evals](https://github.com/openai/evals)** [![GitHub_Stars](https://img.shields.io/github/stars/openai/evals?style=social&color=white)](https://github.com/openai/evals/stargazers)  
   **Open-source framework for evaluating LLMs and systems built with LLMs** (MIT). Provides a registry of standardized academic benchmarks and custom evaluation harnesses.
 
-- **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+- **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub_Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
   **Production-grade open-source LLM evaluation framework** (Apache-2.0), similar to Pytest for unit testing LLM applications. Features 14+ ready-to-use metrics (G-Eval, Hallucination, Faithfulness, RAGAS), red-teaming for 40+ vulnerabilities, and seamless CI/CD integration.
 
-- **[Ragas](https://github.com/vibrantlabsai/ragas)** [![GitHub stars](https://img.shields.io/github/stars/vibrantlabsai/ragas?style=social&color=white)](https://github.com/vibrantlabsai/ragas/stargazers)  
+- **[Ragas](https://github.com/vibrantlabsai/ragas)** [![GitHub_Stars](https://img.shields.io/github/stars/vibrantlabsai/ragas?style=social&color=white)](https://github.com/vibrantlabsai/ragas/stargazers)  
   **The leading open-source RAG evaluation framework** (Apache-2.0). Specializes in evaluating Retrieval-Augmented Generation pipelines with objective metrics (faithfulness, answer relevance, context precision/recall) and automated test dataset generation.
 
-- **[LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** [![GitHub stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social&color=white)](https://github.com/EleutherAI/lm-evaluation-harness/stargazers)  
+- **[LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** [![GitHub_Stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social&color=white)](https://github.com/EleutherAI/lm-evaluation-harness/stargazers)  
   **The gold standard open-source framework for few-shot language model evaluation** (MIT) by EleutherAI. Powers the Hugging Face Open LLM Leaderboard with 60+ standard academic benchmarks and custom task support.
 
-- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
   **AI observability and evaluation platform** (Elastic License 2.0). Features OpenTelemetry-native tracing, LLM-as-a-judge evaluations, prompt playground, and experiment tracking with out-of-the-box support for LlamaIndex, LangChain, DSPy, and major LLM providers.
 
-- **[OpenCompass](https://github.com/open-compass/opencompass)** [![GitHub stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social&color=white)](https://github.com/open-compass/opencompass/stargazers)  
+- **[OpenCompass](https://github.com/open-compass/opencompass)** [![GitHub_Stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social&color=white)](https://github.com/open-compass/opencompass/stargazers)  
   **Comprehensive open-source evaluation platform for foundation models** (Apache-2.0). Supports 100+ datasets and 400,000+ questions for extensive evaluation of language, multimodal, and code models.
 
-- **[OpenLLMetry (Traceloop)](https://github.com/traceloop/openllmetry)** [![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
+- **[OpenLLMetry (Traceloop)](https://github.com/traceloop/openllmetry)** [![GitHub_Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
   **OpenTelemetry-native instrumentation for LLMs, vector databases, and frameworks** (Apache-2.0). Emits standard `gen_ai` traces and metrics directly to any OTel-compatible backend (Datadog, Dynatrace, Honeycomb, Jaeger).
 
-- **[TruLens](https://github.com/truera/trulens)** [![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
+- **[TruLens](https://github.com/truera/trulens)** [![GitHub_Stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
   **Open-source evaluation and experiment tracking framework for LLMs and agentic systems** (Apache-2.0). OpenTelemetry-native tracing with built-in RAG Triad evaluations, Agent GPA, and LLM judges verified against human annotations.
 
-- **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** [![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social&color=white)](https://github.com/UKGovernmentBEIS/inspect_ai/stargazers)  
+- **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** [![GitHub_Stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social&color=white)](https://github.com/UKGovernmentBEIS/inspect_ai/stargazers)  
   **Authoritative open-source framework for large language model evaluations from the UK AI Safety Institute** (MIT). Standardized evaluation harnesses for frontier model capabilities, agent workflows, and safety evaluations.
 
-- **[Lighteval](https://github.com/huggingface/lighteval)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social&color=white)](https://github.com/huggingface/lighteval/stargazers)  
+- **[Lighteval](https://github.com/huggingface/lighteval)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social&color=white)](https://github.com/huggingface/lighteval/stargazers)  
   **Hugging Face's lightweight and flexible LLM evaluation toolkit** (Apache-2.0). Supports out-of-the-box benchmarks, custom prompts, and multiple execution backends (transformers, TGI, vLLM, nanotron).
 
-- **[AgentCompass](https://github.com/open-compass/AgentCompass)** [![GitHub stars](https://img.shields.io/github/stars/open-compass/AgentCompass?style=social&color=white)](https://github.com/open-compass/AgentCompass/stargazers)  
+- **[AgentCompass](https://github.com/open-compass/AgentCompass)** [![GitHub_Stars](https://img.shields.io/github/stars/open-compass/AgentCompass?style=social&color=white)](https://github.com/open-compass/AgentCompass/stargazers)  
   **Unified open-source evaluation infrastructure for AI agents** (Apache-2.0, EMNLP 2026). Supports 30+ public benchmarks and 10+ agent harnesses (including Claude Code, Codex, OpenHands) with composable architecture decoupling Model, Benchmark, Harness, and Environment.
 
 ### Additional Strong Open-Source Options
