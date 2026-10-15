@@ -1,47 +1,55 @@
-# Awesome-AI-Evaluation-Tracking
+<div align="center">
 
-## Top AI Evaluation & Tracking Ecosystem
+<img src="./assets/banner.svg" alt="Awesome AI Evaluation & Tracking Banner" width="100%" />
 
+# ⚡ Awesome AI Evaluation & Tracking 🎯
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Evaluation-Tracking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Evaluation-Tracking?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Evaluation-Tracking/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Evaluation-Tracking?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Evaluation-Tracking/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**The Definitive Guide to LLM Observability, Prompt Evaluation, RAG Triad Benchmarks & AI Agent Experiment Tracking.**
 
-*Focused on LLM Experiment Tracking, RAG Evaluation & Production Monitoring*  
+*Curated ecosystem of enterprise SaaS platforms and battle-tested open-source frameworks for LLMOps, automated red-teaming, and production quality monitoring.*
 
-**Last updated: October 2026**
+---
 
+</div>
 
+> 🔍 **SEO & Search Keywords**: AI evaluation, LLM evaluation, LLMOps, RAG evaluation, LLM observability, experiment tracking, AI agent benchmarking, prompt evaluation, red teaming, hallucination detection, OpenTelemetry tracing.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Evaluation & Tracking**. These tools enable teams to systematically measure LLM application quality—tracing every step, scoring outputs with LLM judges, comparing experiments, and catching regressions before they reach production.
+**Last updated: October 2026** 📅
 
+This repository tracks premier **enterprise SaaS platforms** 🏢 and **open-source projects** 🛠️ for **AI Evaluation & Tracking**. These frameworks empower engineering teams to systematically audit LLM applications—tracing step-by-step executions, scoring outputs with LLM-as-a-judge, benchmarking agentic workflows, and catching regressions before deployment.
 
+- 🌟 **Enterprise Leaders**: Scale AI, Snorkel Flow, LangSmith, Braintrust, Fiddler AI, and Patronus AI.
+- 🔓 **Open-Source Champions**: Langfuse, Promptfoo, Comet Opik, OpenAI Evals, DeepEval, Ragas, LM Evaluation Harness, and Arize Phoenix.
 
-**Examples** include Scale AI, Snorkel Flow, Braintrust, LangSmith, Arize Phoenix, Patronus AI, TruEra, Fiddler AI, Humanloop, and DeepEval (the category leaders).
+Contributions welcome! 🤝 Open a pull request to add or update tools.
 
+---
 
+## 📑 Table of Contents
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, OpenTelemetry-native tracing, and open evaluation frameworks—ideal for AI engineers, platform teams, and developers seeking transparent, vendor-independent evaluation infrastructure.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
+- [💡 How to Contribute](#-how-to-contribute)
+- [☕ Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global AI evaluation, testing, and observability market is estimated at **$1.8B – $2.9B** (growing at a rapid CAGR of **23%–31%** through 2030+ as enterprise generative AI and autonomous agent adoption surges).
 The market is currently **moderately fragmented transitioning into rapid consolidation**—characterized by a vibrant ecosystem of specialized evaluation and tracing startups, alongside aggressive acquisition runs by cloud platforms and observability giants (e.g., Meta's landmark investment in Scale AI, Snowflake acquiring TruEra, ClickHouse acquiring Langfuse, and OpenAI acquiring Promptfoo).
 
-## SaaS/Hosted Platforms
+## 🏢 SaaS & Hosted Platforms
 
 | Company / Product | Valuation / Revenue Scale | Pricing (Starting Paid Tier) | Free Tier / Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -56,7 +64,7 @@ The market is currently **moderately fragmented transitioning into rapid consoli
 
 
 
-## Open-Source GitHub Projects
+## 🛠️ Open-Source GitHub Projects
 
 - **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
   **Open-source LLM engineering platform** (MIT core) with tracing, evaluations, prompt management, and datasets. Self-hostable with ClickHouse backend. **Acquired by ClickHouse in January 2026 with commitment to remain open source**.
@@ -111,48 +119,44 @@ The market is currently **moderately fragmented transitioning into rapid consoli
 
 
 
-## How to Contribute
+## 💡 How to Contribute
 
+1. Fork the repo 🍴
+2. Add/edit entries in `README.md` (follow existing table or list format).
+3. Include: name, link, concise description, and whether it's SaaS or open-source.
+4. Submit PR with a short explanation 🚀
 
+Star the repo if you find it useful! ⭐
 
-1. Fork the repo.
+## ☕ Support & Community
 
-2. Add/edit entries in `README.md` (follow existing format).
+If you find this curated collection helpful for your research, company, or LLM engineering workflows:
 
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+- ⭐ **Star this repository** to support ongoing maintenance and discoverability!
+- 🍴 **Fork and share** with your AI engineering team, colleagues, and community!
+- 💖 **Sponsor / Buy a Coffee**: If you'd like to support the ongoing maintenance and curation of this project, you can sponsor via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
-4. Submit PR with a short explanation.
+Your support keeps this ecosystem up-to-date with emerging LLMOps tools and frontier benchmarks! Thank you! 🙏
 
+## 📈 Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Evaluation-Tracking&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Evaluation-Tracking&type=date&legend=top-left)
 
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
+## ⚖️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
-
 - AI evaluation platforms handling prompts and traces must comply with data protection regulations (GDPR, CCPA, etc.), especially when traces contain PII.
-
 - **"Open source" means different things in this category.** TruLens, DeepEval, Ragas, Promptfoo, and Inspect are genuinely open source (Apache-2.0/MIT). Arize Phoenix uses Elastic License 2.0 (source-available, not OSI-approved). LangSmith is closed SaaS with open SDKs and Enterprise self-hosting. **Check the LICENSE file, not the marketing page** .
-
 - **Self-hosting is a hard requirement when prompts or traces carry regulated data.** If they do, the field collapses to TruLens, DeepEval, Phoenix, Ragas, Langfuse, Opik, and OpenLLMetry. LangSmith and Braintrust cannot self-host on lower tiers .
-
 - **Observability is not evaluation.** Tracing tells you what happened; evaluation tells you whether it was good. Most tools ship both—which makes it easy to buy one and never configure the other. **Tracing alone will not catch quality drift.**
-
 - **Evaluation judges are themselves LLMs.** Their scores are probabilistic and should be validated against human annotations for high-stakes decisions. TruLens grades its judges against human annotations out of the box—a practice every evaluation deployment should follow .
-
 - Self-hosted open-source solutions require proper security hardening, LLM infrastructure (or API keys), and ongoing maintenance. Evaluation is infrastructure—budget for it accordingly.
-
-
 
 ---
 
+<div align="center">
 
+**Made with ❤️ for AI engineers, platform teams, and developers building transparent AI evaluation solutions.**  
+*Let's make AI Evaluation & Tracking more open, data-driven, and quality-obsessed.*
 
-**Made for AI engineers, platform teams, and developers building transparent AI evaluation solutions.**  
-
-Let's make AI Evaluation & Tracking more open, data-driven, and quality-obsessed.
+</div>
